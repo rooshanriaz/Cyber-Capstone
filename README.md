@@ -101,9 +101,7 @@ Performed memory and disk forensic investigations to reconstruct attacker activi
 - [Afnan Bin Abbas](https://github.com/afnanbinabbas)
 - [Muhammad Yasir Khan](https://github.com/yasirkhan26)
 
----  
-
----
+--- 
 
 ## Disclaimer
 
