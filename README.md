@@ -95,6 +95,14 @@ Performed memory and disk forensic investigations to reconstruct attacker activi
 * Performed forensic investigations of post-compromise environments.
 * Demonstrated offensive and defensive security integration through purple team exercises.
 
+# Contributors
+
+- [Rooshan Riaz](https://github.com/rooshanriaz)
+- [Afnan Bin Abbas](https://github.com/afnanbinabbas)
+- [Muhammad Yasir Khan](https://github.com/yasirkhan26)
+
+---  
+
 ---
 
 ## Disclaimer
